@@ -1,0 +1,2000 @@
+Go .
+Go .
+Go .
+Go .
+Hi .
+Hi .
+Run !
+Run !
+Run !
+Run !
+Run !
+Run !
+Run !
+Run !
+Run .
+Run .
+Run .
+Run .
+Run .
+Run .
+Run .
+Run .
+Who ?
+Wow !
+Wow !
+Wow !
+Duck !
+Duck !
+Duck !
+Fire !
+Help !
+Hide .
+Hide .
+Jump !
+Jump .
+Stop !
+Stop !
+Stop !
+Wait !
+Wait !
+Wait !
+Wait .
+Wait .
+Wait .
+Wait .
+Begin .
+Begin .
+Go on .
+Go on .
+Go on .
+Hello !
+Hello !
+Hello .
+Hello .
+Hello .
+Hello .
+I see .
+I see .
+I try .
+I won !
+I won !
+I won .
+Oh no !
+Relax .
+Relax .
+Relax .
+Relax .
+Relax .
+Relax .
+Relax .
+Relax .
+Relax .
+Relax .
+Relax .
+Relax .
+Shoot !
+Shoot !
+Smile .
+Smile .
+Smile .
+Sorry ?
+Attack !
+Attack !
+Attack !
+Attack !
+Buy it .
+Buy it .
+Buy it .
+Buy it .
+Cheers !
+Cheers !
+Cheers !
+Cheers !
+Eat it .
+Eat it .
+Exhale .
+Get up .
+Get up .
+Get up .
+Go now .
+Go now .
+Go now .
+Got it !
+Got it !
+Got it !
+Got it ?
+Got it ?
+Got it ?
+Hop in .
+Hop in .
+Hug me .
+Hug me .
+I fell .
+I fell .
+I fled .
+I hunt .
+I knit .
+I know .
+I left .
+I left .
+I left .
+I left .
+I lied .
+I lost .
+I paid .
+I paid .
+I paid .
+I pass .
+I quit .
+I quit .
+I swim .
+I'm 19 .
+I'm OK .
+I'm OK .
+Inhale .
+Listen .
+No way !
+No way !
+No way !
+No way !
+No way !
+No way !
+No way !
+No way !
+No way !
+No way !
+No way !
+No way !
+Really ?
+Really ?
+Really ?
+Really ?
+Really ?
+Thanks !
+Thanks .
+Thanks .
+Thanks .
+Try it .
+Try it .
+Try it .
+We try .
+We won .
+We won .
+We won .
+We won .
+We won .
+Ask Tom .
+Ask him .
+Awesome !
+Awesome !
+Awesome !
+Awesome .
+Be calm .
+Be calm .
+Be calm .
+Be cool .
+Be fair .
+Be fair .
+Be fair .
+Be fair .
+Be fair .
+Be fair .
+Be fair .
+Be fair .
+Be fair .
+Be kind .
+Be nice .
+Be nice .
+Be nice .
+Be nice .
+Be nice .
+Be nice .
+Beat it !
+Beat it .
+Beat it .
+Beat it .
+Beat it .
+Beat it .
+Beat it .
+Beat it .
+Beat it .
+Beat it .
+Beat it .
+Beat it .
+Beat it .
+Beat it .
+Beat it .
+Beat it .
+Beat it .
+Beat it .
+Beat it .
+Burn it .
+Burn it .
+Burn it .
+Burn it .
+Bury it .
+Bury it .
+Bury it .
+Bury it .
+Call me .
+Call me .
+Call us .
+Call us .
+Come in .
+Come in .
+Come in .
+Come in .
+Come on !
+Come on !
+Come on !
+Come on !
+Come on !
+Come on !
+Come on !
+Come on !
+Come on !
+Come on .
+Come on .
+Come on .
+Drop it !
+Drop it !
+Drop it !
+Drop it !
+Fold it .
+Fold it .
+Fold it .
+Fold it .
+Get Tom .
+Get out !
+Get out !
+Get out !
+Get out !
+Get out !
+Get out !
+Get out !
+Get out !
+Get out !
+Get out !
+Get out !
+Get out !
+Get out !
+Get out !
+Get out !
+Get out !
+Get out !
+Get out !
+Get out .
+Get out .
+Get out .
+Get out .
+Get out .
+Get out .
+Get out .
+Get out .
+Get out .
+Get out .
+Get out .
+Get out .
+Get out .
+Get out .
+Get out .
+Go away !
+Go away !
+Go away !
+Go away !
+Go away !
+Go away !
+Go away !
+Go away !
+Go away .
+Go away .
+Go away .
+Go away .
+Go away .
+Go away .
+Go away .
+Go away .
+Go away .
+Go away .
+Go away .
+Go away .
+Go away .
+Go back .
+Go home .
+Go home .
+Go home .
+Go home .
+Go slow .
+Go slow .
+Goodbye !
+Goodbye !
+Goodbye !
+Goodbye .
+Hang on !
+Hang on !
+Hang on !
+Hang on .
+Hang on .
+Hang on .
+He left .
+He runs .
+Help me !
+Help me .
+Help me .
+Help me .
+Help me .
+Help us .
+Help us .
+Hire me .
+Hire me .
+Hire me .
+Hire me .
+Hold it !
+Hold it !
+Hold it !
+Hold it !
+Hold on .
+Hold on .
+Hold on .
+Hold on .
+Hold on .
+Hold up .
+Hold up .
+How sad !
+Hug Tom .
+I agree .
+I cried .
+I dozed .
+I dozed .
+I drive .
+I drove .
+I fired .
+I froze .
+I froze .
+I smoke .
+I snore .
+I stink .
+I stood .
+I stood .
+I swore .
+I swore .
+I tried .
+I tried .
+I tried .
+I waved .
+I'll go .
+I'm Tom .
+I'm fat .
+I'm fat .
+I'm fit .
+I'm hit !
+I'm hit !
+I'm ill .
+I'm mad .
+I'm mad .
+I'm mad .
+I'm sad .
+I'm sad .
+I'm sad .
+I'm shy .
+I'm wet .
+I'm wet .
+It's me !
+Join me .
+Join us .
+Join us .
+Keep it .
+Keep it .
+Kick it .
+Kick it .
+Kill it .
+Kill it .
+Kill it .
+Kill it .
+Kiss me .
+Kiss me .
+Lie low .
+Lie low .
+Lock it .
+Lock it .
+Lock it .
+Lock it .
+Look up .
+Look up .
+Me , too .
+Me , too .
+Move on .
+Move on .
+Open it .
+Open it .
+Open it .
+Open it .
+Open up .
+Open up .
+Pair up .
+Perfect !
+Perfect !
+Perfect !
+Pull it .
+Pull it .
+Push it .
+Push it .
+Push it .
+Push it .
+Push it .
+See you !
+See you !
+See you !
+See you !
+See you .
+See you .
+Show me .
+Show me .
+Shut up !
+Shut up !
+Shut up !
+Shut up !
+Shut up !
+Shut up !
+Shut up !
+Shut up !
+Sign up .
+Sign up .
+Skip it .
+Skip it .
+So long .
+Take it .
+Take it .
+Take it .
+Take it .
+Take it .
+Take it .
+Tell me .
+Tell me .
+Tom won .
+Wake up !
+Wake up !
+Wake up !
+Wake up .
+Wake up .
+Wash up .
+Wash up .
+We care .
+We know .
+We know .
+We lost .
+We lost .
+We lost .
+We lost .
+We lost .
+We lost .
+We lost .
+We lost .
+We lost .
+We lost .
+Welcome .
+Welcome .
+Who ran ?
+Who won ?
+Who won ?
+You run .
+You win .
+Aim high .
+Aim high .
+Am I fat ?
+Am I fat ?
+Ask them .
+Ask them .
+Back off !
+Back off !
+Back off !
+Back off .
+Back off .
+Back off .
+Back off .
+Back off .
+Be a man .
+Be a man .
+Be brave .
+Be brief .
+Be brief .
+Be brief .
+Be brief .
+Be brief .
+Be brief .
+Be quiet .
+Be still .
+Be still .
+Be still .
+Buzz off .
+Call Tom .
+Call Tom .
+Can I go ?
+Cheer up !
+Cheer up .
+Cool off !
+Cover me .
+Cuff him .
+Drive on .
+Drive on .
+Drive on .
+Drive on .
+Find Tom .
+Find Tom .
+Fix this .
+Fix this .
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away !
+Get away .
+Get away .
+Get down !
+Get down !
+Get down !
+Get down !
+Get down .
+Get down .
+Get down .
+Get down .
+Get down .
+Get down .
+Get down .
+Get lost !
+Get lost !
+Get lost !
+Get lost !
+Get lost !
+Get lost !
+Get lost !
+Get lost !
+Get lost !
+Get lost !
+Get lost .
+Get lost .
+Get lost .
+Get lost .
+Get lost .
+Get lost .
+Get lost .
+Get real !
+Get real !
+Go ahead !
+Go ahead !
+Go ahead !
+Go ahead !
+Go ahead !
+Go ahead !
+Go ahead !
+Go ahead !
+Go ahead !
+Go ahead !
+Go ahead !
+Go ahead !
+Go ahead !
+Go ahead !
+Go ahead .
+Go ahead .
+Go ahead .
+Go ahead .
+Go ahead .
+Go ahead .
+Go ahead .
+Go ahead .
+Go ahead .
+Go ahead .
+Go ahead .
+Go ahead .
+Go ahead .
+Good job !
+Good job !
+Good job !
+Good job !
+Grab Tom .
+Grab Tom .
+Grab him .
+Grab him .
+Grab him .
+Have fun .
+Have fun .
+Have fun .
+Have fun .
+He spoke .
+He spoke .
+He spoke .
+He tries .
+He's wet .
+Help Tom .
+Help Tom .
+Help Tom .
+Hi , guys .
+Hit back .
+Hit back .
+How cute !
+How cute !
+How cute !
+How deep ?
+How nice !
+How nice !
+How nice !
+How nice !
+How nice !
+How rude !
+How rude !
+How wise !
+Hurry up .
+Hurry up .
+Hurry up .
+Hurry up .
+Hurry up .
+Hurry up .
+I am Tom .
+I cursed .
+I did OK .
+I did OK .
+I did it .
+I did it .
+I failed .
+I forgot .
+I get it .
+I goofed .
+I goofed .
+I goofed .
+I got it .
+I got it .
+I helped .
+I jumped .
+I looked .
+I moaned .
+I nodded .
+I obeyed .
+I phoned .
+I phoned .
+I refuse .
+I refuse .
+I rested .
+I rested .
+I saw it .
+I saw it .
+I sighed .
+I smiled .
+I stayed .
+I stayed .
+I talked .
+I use it .
+I use it .
+I use it .
+I'll pay .
+I'll pay .
+I'll try .
+I'll try .
+I'm back .
+I'm back .
+I'm bald .
+I'm busy .
+I'm busy .
+I'm calm .
+I'm cold .
+I'm cool .
+I'm cool .
+I'm deaf .
+I'm deaf .
+I'm done .
+I'm fair .
+I'm fair .
+I'm fair .
+I'm fast .
+I'm fine .
+I'm fine .
+I'm fine .
+I'm free !
+I'm free .
+I'm free .
+I'm full .
+I'm full .
+I'm game .
+I'm game .
+I'm glad .
+I'm good .
+I'm good .
+I'm home .
+I'm late .
+I'm lazy .
+I'm lazy .
+I'm lazy .
+I'm lazy .
+I'm lost .
+I'm lost .
+I'm okay .
+I'm okay .
+I'm rich .
+I'm safe .
+I'm sick .
+I'm sure .
+I'm sure .
+I'm sure .
+I'm sure .
+I'm tall .
+I'm thin .
+I'm tidy .
+I'm tidy .
+I'm ugly .
+I'm ugly .
+I'm ugly .
+I'm weak .
+I'm well .
+I'm well .
+I've won .
+I've won .
+It helps .
+It hurts .
+It works .
+It works .
+It's Tom .
+It's fun .
+It's fun .
+It's his .
+It's his .
+It's hot .
+It's new .
+It's new .
+It's odd .
+It's red .
+It's sad .
+Keep out !
+Keep out .
+Kill Tom .
+Kill Tom .
+Kiss Tom .
+Leave it .
+Leave it .
+Leave it .
+Leave it .
+Leave it .
+Leave me .
+Leave us .
+Leave us .
+Let's go !
+Let's go !
+Let's go !
+Let's go .
+Let's go .
+Look out !
+Look out !
+Look out !
+Look out !
+Look out !
+Look out !
+Look out !
+Look out !
+Look out !
+Look out !
+Marry me .
+Marry me .
+May I go ?
+May I go ?
+May I go ?
+Nice try .
+Nonsense !
+Nonsense !
+Nonsense !
+Nonsense !
+Nonsense !
+Nonsense !
+Nonsense !
+Nonsense !
+Nonsense !
+Nonsense !
+Nonsense !
+Nonsense !
+Now stop !
+Now stop !
+Prove it .
+Prove it .
+Run away .
+Run away .
+Run away .
+Run away .
+Save Tom .
+Save Tom .
+Say what ?
+She came .
+She died .
+She left .
+She runs .
+Sit down !
+Sit down !
+Sit down !
+Sit down .
+Sit down .
+Sit here .
+Sit here .
+Speak up !
+Speak up !
+Speak up !
+Speed up .
+Speed up .
+Stand up .
+Stop Tom .
+Stop Tom .
+Take Tom .
+Taste it .
+Taste it .
+Taste it .
+Taste it .
+Tell Tom .
+Tell Tom .
+Terrific !
+Terrific !
+Terrific !
+Terrific !
+Terrific !
+Terrific !
+Terrific !
+Terrific !
+Terrific !
+Terrific !
+Terrific !
+Terrific !
+Terrific !
+Terrific !
+Terrific !
+Terrific !
+Terrific !
+They won .
+They won .
+They won .
+They won .
+Tom came .
+Tom died .
+Tom knew .
+Tom left .
+Tom left .
+Tom lied .
+Tom lies .
+Tom lost .
+Tom paid .
+Tom paid .
+Tom went .
+Tom's up .
+Too late .
+Touch it .
+Touch it .
+Touch it .
+Touch it .
+Trust me !
+Trust me .
+Trust me .
+Trust me .
+Trust me .
+Try some .
+Try some .
+Try some .
+Try this .
+Try this .
+Try this .
+Use this .
+Use this .
+Use this .
+Use this .
+Warn Tom .
+Warn Tom .
+Watch me .
+Watch me .
+Watch us .
+Watch us .
+We agree .
+We'll go .
+We're OK .
+What for ?
+What for ?
+What fun !
+What fun !
+Who am I ?
+Who came ?
+Who died ?
+Who fell ?
+Who lost ?
+Who paid ?
+Who paid ?
+Who quit ?
+Who's he ?
+Write me .
+Write me .
+You lost .
+You lost .
+You lost .
+After you .
+After you .
+After you .
+After you .
+Aim . Fire !
+Am I cute ?
+Am I late ?
+Answer me .
+Be honest .
+Be honest .
+Be honest .
+Be seated .
+Be seated .
+Be seated .
+Be strong .
+Birds fly .
+Bless you .
+Call home !
+Calm down !
+Calm down !
+Calm down !
+Calm down .
+Calm down .
+Calm down .
+Can we go ?
+Can we go ?
+Can we go ?
+Catch Tom .
+Catch Tom .
+Catch him .
+Catch him .
+Catch him .
+Chill out .
+Chill out .
+Choose me .
+Come back .
+Come back .
+Come here .
+Come here .
+Come over .
+Come over .
+Come over .
+Come over .
+Come over .
+Come soon .
+Come soon .
+Cool down .
+Did I win ?
+Did I win ?
+Did I win ?
+Do it now .
+Dogs bark .
+Dogs bark .
+Don't ask .
+Don't cry .
+Don't die .
+Don't die .
+Don't lie .
+Don't lie .
+Don't run .
+Don't run .
+Excuse me .
+Excuse me .
+Excuse me .
+Excuse me ?
+Excuse me ?
+Excuse me ?
+Excuse me ?
+Excuse me ?
+Fantastic !
+Fantastic !
+Fantastic !
+Feel this .
+Feel this .
+Feel this .
+Feel this .
+Film this .
+Film this .
+Follow me .
+Follow us .
+Follow us .
+Forget it !
+Forget it !
+Forget it !
+Forget it !
+Forget it !
+Forget it !
+Forget it .
+Forget it .
+Forget it .
+Forget it .
+Forget it .
+Forget me .
+Forget me .
+Get a job .
+Get a job .
+Get a job .
+Get a job .
+Get a saw .
+Get going .
+Get going .
+Get going .
+Get going .
+Get going .
+Get going .
+Get going .
+Get going .
+Get going .
+Get ready .
+Get ready .
+Go faster .
+Go faster .
+Go for it .
+Go get it .
+Go get it .
+Go inside .
+Go to bed .
+Go to bed .
+Go to bed .
+Go to bed .
+Go to bed .
+Go to bed .
+Go to bed .
+Good luck .
+Good luck .
+Good luck .
+Grab that .
+Grab that .
+Grab that .
+Grab that .
+Grab this .
+Grab this .
+Hands off .
+Hands off .
+Have some .
+Have some .
+He is ill .
+He is old .
+He's a DJ .
+He's good .
+He's lazy .
+He's mine .
+He's rich .
+He's sexy .
+Head east .
+Head east .
+Head west .
+Head west .
+Here I am .
+Here's $ 5 .
+Hold fire .
+Hold fire .
+Hold this .
+Hold this .
+Hold this .
+Hold this .
+Hold this .
+How awful !
+How awful !
+How is it ?
+How is it ?
+How weird !
+How's Tom ?
+How's Tom ?
+Humor Tom .
+Humor Tom .
+I am cold .
+I am good .
+I am here .
+I am okay .
+I am sick .
+I am sure .
+I am sure .
+I am weak .
+I beg you .
+I beg you .
+I beg you .
+I beg you .
+I blinked .
+I can fly .
+I can run .
+I can ski .
+I cheated .
+I cheered .
+I crashed .
+I crashed .
+I crashed .
+I crashed .
+I cringed .
+I cringed .
+I cringed .
+I escaped .
+I escaped .
+I exhaled .
+I fainted .
+I fainted .
+I frowned .
+I gave up .
+I giggled .
+I giggled .
+I giggled .
+I giggled .
+I give in .
+I give up .
+I give up .
+I gloated .
+I got hot .
+I got hot .
+I grinned .
+I groaned .
+I grunted .
+I had fun .
+I had fun .
+I had fun .
+I had fun .
+I hate it .
+I have it .
+I hit Tom .
+I hope so .
+I hurried .
+I hurried .
+I hurried .
+I hurried .
+I inhaled .
+I knew it .
+I like it .
+I like it .
+I like it .
+I lost it .
+I love it !
+I love it .
+I made it .
+I mean it !
+I mean it .
+I must go .
+I must go .
+I must go .
+I must go .
+I must go .
+I must go .
+I must go .
+I must go .
+I need it .
+I need it .
+I noticed .
+I prepaid .
+I promise .
+I promise .
+I relaxed .
+I relaxed .
+I retired .
+I retired .
+I retired .
+I said no .
+I said so .
+I saw Tom .
+I saw Tom .
+I saw him .
+I saw him .
+I saw him .
+I saw one .
+I saw one .
+I saw you .
+I saw you .
+I saw you .
+I saw you .
+I saw you .
+I saw you .
+I saw you .
+I saw you .
+I see Tom .
+I see you .
+I shouted .
+I tripped .
+I tripped .
+I want it .
+I was ill .
+I was new .
+I was new .
+I will go .
+I woke up .
+I woke up .
+I'd agree .
+I'd leave .
+I'll call .
+I'll come .
+I'll cook .
+I'll help .
+I'll live .
+I'll obey .
+I'll pack .
+I'll pack .
+I'll pack .
+I'll pass .
+I'll quit .
+I'll sing .
+I'll stay .
+I'll stop .
+I'll swim .
+I'll talk .
+I'll talk .
+I'll wait .
+I'll walk .
+I'll work .
+I'll work .
+I'm a Leo .
+I'm a cop .
+I'm a man .
+I'm alive .
+I'm alive .
+I'm alive .
+I'm alone .
+I'm alone .
+I'm angry .
+I'm angry .
+I'm armed .
+I'm armed .
+I'm awake .
+I'm blind .
+I'm brave .
+I'm brave .
+I'm brave .
+I'm broke .
+I'm broke .
+I'm clean .
+I'm clean .
+I'm crazy .
+I'm crazy .
+I'm cured .
+I'm cured .
+I'm dirty .
+I'm dizzy .
+I'm drunk .
+I'm drunk .
+I'm drunk .
+I'm dying .
+I'm early .
+I'm first .
+I'm fussy .
+I'm fussy .
+I'm fussy .
+I'm going .
+I'm going .
+I'm going .
+I'm going .
+I'm loyal .
+I'm loyal .
+I'm lucky .
+I'm lucky .
+I'm lucky .
+I'm lucky .
+I'm lucky .
+I'm lucky .
+I'm lying .
+I'm naked .
+I'm naked .
+I'm naked .
+I'm naked .
+I'm naked .
+I'm needy .
+I'm picky .
+I'm quiet .
+I'm ready !
+I'm ready !
+I'm ready .
+I'm right .
+I'm short .
+I'm sober .
+I'm sorry .
+I'm sorry .
+I'm sorry .
+I'm sorry .
+I'm sorry .
+I'm sorry .
+I'm sorry .
+I'm stuck .
+I'm timid .
+I'm tired .
+I'm tough .
+I'm tough .
+I'm tough .
+I'm tough .
+I'm yours .
+I'm yours .
+I've lost .
+Is Tom OK ?
+Is Tom OK ?
+Is Tom in ?
+Is Tom in ?
+Is he Tom ?
+Is it bad ?
+Is it bad ?
+Is it far ?
+Is it far ?
+Is it hot ?
+Is it red ?
+Is it red ?
+Is it you ?
+Is it you ?
+Is it you ?
+Is it you ?
+It burned .
+It failed .
+It poured .
+It snowed .
+It stinks .
+It stinks .
+It was OK .
+It was OK .
+It was OK .
+It worked .
+It worked .
+It's 3 : 30 .
+It's 8 : 30 .
+It's 8 : 30 .
+It's a TV .
+It's cold .
+It's cold .
+It's dark .
+It's dead .
+It's dead .
+It's dead .
+It's done .
+It's easy .
+It's food .
+It's free .
+It's full .
+It's hard .
+It's here .
+It's here .
+It's hers .
+It's hers .
+It's late .
+It's lost .
+It's mine .
+It's mine .
+It's mine .
+It's mine .
+It's open .
+It's ours .
+It's ours .
+It's ours .
+It's safe .
+It's sand .
+It's time .
+It's time .
+It's true !
+It's work .
+Jump down .
+Keep away .
+Keep back .
+Keep back .
+Keep back .
+Keep back .
+Keep back .
+Keep back .
+Keep back .
+Keep back .
+Keep calm .
+Keep cool .
+Keep that .
+Keep that .
+Keep that .
+Keep them .
+Keep them .
+Keep this .
+Keep this .
+Keep warm .
+Keep warm .
+Kill them .
+Kill them .
+Leave Tom .
+Leave Tom .
+Leave Tom .
+Leave Tom .
+Let it be .
+Let it be .
+Let it go .
+Let it go .
+Let it go .
+Let it go .
+Let it go .
+Let it go .
+Let it go .
+Let it go .
+Let it go .
+Let it go .
+Let me go !
+Let me go !
+Let me go !
+Let me go !
+Let me go !
+Let me go !
+Let me go !
+Let me go !
+Let me go .
+Let me go .
+Let me go .
+Let me go .
+Let me in .
+Let me in .
+Let us in .
+Let us in .
+Let's ask .
+Let's eat .
+Let's see .
+Lie still .
+Lie still .
+Lie still .
+Lie still .
+Lie still .
+Lie still .
+Look away .
+Look away .
+Look back !
+Look back !
+Look back .
+Look back .
+Look back .
+Look here .
+Look here .
+Loosen up .
+Loosen up .
+Loosen up .
+Loosen up .
+Loosen up .
+Loosen up .
+Loosen up .
+Loosen up .
+Loosen up .
+Loosen up .
+Loosen up .
+Loosen up .
+Move over .
+Move over .
+Move over .
+Move over .
+Nice shot !
+Of course !
+Of course !
+Of course !
+Of course .
+Of course .
+Pardon me ?
+Pardon me ?
+Pardon me ?
+Pardon me ?
+Pardon me ?
+Pardon me ?
+Pardon me ?
+Pardon me ?
+Pardon me ?
+Pardon me ?
+Pardon me ?
+Pardon me ?
+Pardon me ?
+Read this .
+Rest here .
+Rest here .
+Say " aah . "
+Say " aah . "
+Say " aah . "
+Say hello .
+See above .
+See below .
+See below .
+Seize him !
+Seize him !
+Seize him !
+Seize him !
+Seriously ?
+Seriously ?
+Seriously ?
+Seriously ?
+Seriously ?
+Seriously ?
+Seriously ?
+Seriously ?
+Seriously ?
+She cried .
+She cried .
+She tried .
+She walks .
+She's hot .
+She's hot .
+Sign here .
+Sign here .
+Sign this .
+Sign this .
+Sit still .
+Sit still .
+Sit tight .
+Sit tight .
+Sit tight .
+Sit tight .
+Sit tight .
+Slow down !
+Slow down !
+Slow down .
+Slow down .
+Slow down .
+Slow down .
+Slow down .
+Start now .
+Start now .
+Stay away .
+Stay away .
+Stay away .
+Stay away .
+Stay back .
+Stay back .
+Stay back .
+Stay back .
+Stay calm .
+Stay calm .
+Stay calm .
+Stay calm .
+Stay calm .
+Stay calm .
+Stay calm .
+Stay calm .
+Stay calm .
+Stay cool .
+Stay cool .
+Stay cool .
+Stay down !
+Stay down !
+Stay down .
+Stay down .
+Stay here .
+Stay here .
+Stay here .
+Stay home .
+Stay safe .
+Stay safe .
+Stay safe .
+Stay safe .
+Stay safe .
+Stay thin .
+Step back .
+Step back .
+Stop here .
+Stop here .
+Stop here .
+Stop here .
+Stop here .
+Stop that !
+Stop that !
+Stop that .
+Stop that .
+Stop them .
+Take care !
+Take care !
+Take care !
+Take care !
+Take care !
+Take care !
+Take care !
+Take care !
+Take care !
+Take care .
+Take care .
+Take care .
+Take care .
+Take care .
+Take care .
+Take care .
+Take mine .
+Take mine .
+Take mine .
+Take mine .
+Take mine .
+Take mine .
+Take mine .
+Take mine .
+Take over .
+Take over .
+Take over .
+Take over .
+Take this .
+Take this .
+Take this .
+Take this .
+Thank you .
+Thank you .
+Thank you .
+Thank you .
+That's OK .
+That's OK .
+That's OK .
+That's OK .
+That's it .
+That's me .
+Then what ?
+They fell .
+They fell .
+They left .
+They left .
+They lied .
+They lied .
+They lost .
+They lost .
+They swam .
+They swam .
+They swam .
+They swam .
+Time's up .
+Tom cooks .
+Tom cried .
+Tom dived .
+Tom fired .
+Tom is OK .
+Tom is in .
+Tom is up .
+Tom knits .
+Tom knows .
+Tom limps .
+Tom rocks .
+Tom spoke .
+Tom tries .
+Tom tries .
+Tom voted .
+Tom voted .
+Tom waved .
+Tom works .
+Tom works .
+Tom's fat .
+Tom's mad .
+Tom's mad .
+Tom's sad .
+Trust Tom .
+Trust Tom .
+Try again .
+Try again .
+Try again .
+Try it on .
+Turn left .
+Turn left .
+Unlock it .
+Unlock it .
+Wait here .
+Wait here .
+Wait here .
+Wait here .
+Watch out !
+Watch out !
+Watch out !
+Watch out !
+Way to go !
+We agreed .
+We did it !
+We did it .
+We did it .
+We forgot .
+We saw it .
+We saw it .
+We smiled .
+We talked .
+We talked .
+We talked .
+We talked .
+We talked .
+We waited .
+We waited .
+We walked .
+We walked .
+We yawned .
+We yawned .
+We'll try .
+We'll try .
+We'll win .
+We'll win .
+We're hot .
+We're men .
+We're sad .
+We're shy .
+Well done !
+Well done !
+Well done !
+Well done !
+Well done !
+Well done !
+Well done !
+Well done .
+What's up ?
+What's up ?
+What's up ?
+What's up ?
+What's up ?
+Who cares ?
+Who cares ?
+Who cares ?
+Who is he ?
+Who is he ?
+Who is it ?
+Who is it ?
+Who knows ?
+Who spoke ?
+Who'll go ?
+Who's Tom ?
+Who's ill ?
+Wonderful !
+Wonderful !
+Wonderful !
+Wonderful !
+Wonderful !
+Wonderful !
+Wonderful !
+Wonderful !
+Wonderful !
+Write Tom .
+You drive .
+You drive .
+You drive .
+You idiot !
+You idiot !
+You idiot !
+You smell .
+You start .
+You start .
+You stink .
+You stink .
+You tried .
+You tried .
+You're OK .
+You're it !
+You're it !
+Aim higher .
+Aim higher .
+All aboard !
+All aboard !
+Am I clear ?
+Am I clear ?
+Am I dying ?
+Am I dying ?
+Am I early ?
+Am I fired ?
+Am I first ?
+Am I first ?
+Am I hired ?
+Am I hired ?
+Am I ready ?
+Am I ready ?
+Am I right ?
+Am I right ?
+Am I right ?
+Am I wrong ?
+Am I wrong ?
+Am I wrong ?
+Answer Tom .
+Answer Tom .
+Are you OK ?
+Are you OK ?
+Are you OK ?
+Are you in ?
+Are you up ?
+Are you up ?
+Are you up ?
+Are you up ?
+Are you up ?
+Are you up ?
+Are you up ?
+Are you up ?
+Ask anyone .
+Ask anyone .
+Ask anyone .
+Ask around .
+Ask around .
+Be careful !
+Be careful !
+Be careful !
+Be careful !
+Be careful !
+Be careful !
+Be careful !
+Be careful !
+Be careful !
+Be careful !
+Be careful !
+Be careful !
+Be careful .
+Be careful .
+Be careful .
+Be careful .
+Be careful .
+Be careful .
+Be careful .
+Be careful .
+Be careful .
+Be content .
+Be content .
+Be content .
+Be content .
+Be content .
+Be content .
+Be on time .
+Be on time .
+Be patient .
+Be prudent .
+Be prudent .
+Be prudent .
+Be prudent .
+Be prudent .
+Be prudent .
+Be serious .
+Be serious .
+Be serious .
+Be serious .
+Be serious .
+Be serious .
+Birds sing .
+Bottoms up !
+Bottoms up !
+Breathe in .
+Breathe in .
+Bring food .
+Bring food .
+Bring help .
+Bring wine .
+Bring wine .
+Can I come ?
+Can I help ?
+Can I sing ?
+Can I stay ?
+Carry this .
+Catch this .
+Catch this .
+Check that .
+Check that .
+Check that .
+Check this .
+Check this .
+Choose one .
+Choose one .
+Choose one .
+Come again .
+Come again .
+Come again .
+Come alone .
+Come alone .
+Come alone .
+Come alone .
+Come alone .
+Come alone .
+Come alone .
+Come along .
+Come along .
+Come early .
+Come early .
+Come on in !
+Come on in .
+Come quick !
+Come quick !
+Come to me .
+Come to us .
+Cut it out !
+Cut it out !
+Cut it out !
+Cut it out .
+Destroy it .
+Destroy it .
+Destroy it .
+Destroy it .
+Did we win ?
+Dig faster .
+Dig faster .
+Do I snore ?
+Do I stink ?
+Do men cry ?
+Don't fret .
+Don't fret .
+Don't fret .
+Don't fret .
+Don't jump !
+Don't jump !
+Don't look .
+Don't move !
+Don't move !
+Don't move .
+Don't move .
+Don't push .
+Don't push .
+Don't push .
+Don't push .
+Don't quit .
+Don't rush .
+Don't rush .
+Don't rush .
+Don't rush .
+Don't sing .
+Don't sing .
+Don't stop .
+Don't talk !
+Don't talk !
+Don't talk .
+Don't talk .
+Don't wait .
+Don't wait .
+Duty calls .
+Face facts !
+Face facts !
+Face facts !
+Fill it up .
+Find a job .
+Find a job .
+Follow Tom .
+Follow Tom .
+Follow him .
+Follow him .
+Forget Tom .
+Forget Tom .
+Forget him .
+Forget him .
+Forgive me .
+Forgive me .
+Forgive me .
+Forgive us .
+Get a life !
+Get inside .
+Get moving .
+Get moving .
+Get moving .
+Get moving .
+Get moving .
+Get moving .
+Get moving .
+Get to bed .
+Get to bed .
+Get to bed .
+Give it up .
+Give it up .
+Go outside .
+Go outside .
+Go outside .
+Go outside .
+Go see Tom .
+Go see Tom .
+Go warm up .
+Go warm up .
+Have at it .
+Have at it .
+He gave in .
+He gave in .
+He hung up .
+He hung up .
+He is a DJ .
+He is busy .
+He is here !
+He is kind .
+He is late .
+He is lazy .
+He is lazy .
+He is poor .
+He is sick .
+He made it .
+He reacted .
+He reacted .
+He's Swiss .
+He's Swiss .
+He's broke .
+He's broke .
+He's smart .
+Head north .
+Head south .
+Head south .
+Here he is !
+Here it is .
+Here it is .
+Here it is .
+Here it is .
+Here we go .
+Here we go .

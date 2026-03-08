@@ -1,0 +1,9 @@
+transformer_version/data/
+transformer_version/model/
+__pycache__/
+lstm_version/training_model.keras
+lstm_version/target_corpus.txt
+lstm_version/input_model.txt
+bpe_model_input/
+bpe_model_target/
+SS/

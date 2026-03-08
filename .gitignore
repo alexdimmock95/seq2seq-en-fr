@@ -7,3 +7,4 @@ lstm_version/input_model.txt
 bpe_model_input/
 bpe_model_target/
 SS/
+.DS_store
